@@ -71,13 +71,12 @@
 .heading-section {
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 2%;
     text-align: center;
     width: 90%;
     font-weight: 600;
     color: #280238;
     font-size: 26px;
-    margin-top: 4%;
-    margin-bottom: 4%;
     text-align: center;
 }
 
@@ -125,10 +124,9 @@
     text-align: center;
     vertical-align: middle;
     font-weight: 600;
-    width: 10%;
+    width: 8%;
     background-color: #01224B;
-    padding-top: 4%;
-    padding-left:4%;
+    padding:5%;
 }
 
 .list1-cards .card .content {
