@@ -69,6 +69,7 @@
 }
 
 .heading-section {
+    margin-top: 3%;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 2%;
@@ -130,7 +131,6 @@
 }
 
 .list1-cards .card .content {
-
     width: 100%;
     background-color: #EBF2FF;
     text-align: left;
